@@ -1,0 +1,287 @@
+/*导航开始*/
+.mainnavbox{
+	width: 100%;
+	height: 100px;
+	background-image:url(../image/top-pumel-bg.jpg);
+	background-position:top center;
+}
+.mainnav{
+	width:1120px;
+	height: 100px;
+	margin:0 auto;
+   
+
+}
+.nav{
+	width:890px;
+	height: 69px;
+	margin:0 auto;
+    padding-top: 31px;
+    float: left;
+}
+
+.mainnav-left{
+	width: 38px;
+	height:38px;
+	float: left;
+    
+}
+.mainnav-center{
+	width:650px;
+	height: 38px;
+	float: left;
+	margin-left: 200px;
+	 
+}
+.mainnav-right{
+	width:220px;
+	height: 84px;
+	float: right;
+	padding-top: 16px;
+	 
+}
+.mainnav-ul li{
+	float:left;
+	margin-right:32px;
+	line-height: 38px;
+}
+.sx{
+	color:#ccc;
+}
+ .one{
+	margin-right: 18px;
+	float: left;
+}
+ .two{
+	margin-right: 0px;
+	float: left;
+}
+.tongdao{
+	border:1px solid #414345;
+	display: block;
+	width: 98px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+    /*圆角*/
+    border-radius: 6px;
+    margin-top: 6px;
+    color:#fff;
+}
+.tongdao:hover{
+	border:1px solid #fff;
+	color: #fff; 
+}
+.mainnav-a:hover{
+	color: #fff;
+}
+.goumai{
+	display: block;
+	width: 100px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+    /*圆角*/
+    border-radius: 6px;
+    margin-top: 6px;
+    color: #fff;
+    background: #6b89d5;
+}
+.goumai:hover{
+	background:#fff;
+	color:#000;
+}
+/*导航结束*/
+
+
+
+
+/*登录开始*/
+.subnav{
+	width:100%;
+	height: 38px;
+	background-image: url(../image/global-gray-bg-light.jpg);
+}
+.subnav1{
+	width:1120px;
+	height: 38px;
+	margin:0 auto;
+}
+.subnav-left{
+	width:150px;
+	height: 26px;
+	float: left;
+	padding-top: 12px;
+}
+.guoqi{
+	width:16px;
+	height:14px;
+	float:left;
+	/*margin-top:3px;*/
+	margin-right:12px;
+	background-image:url(../image/flag.png); 
+	cursor:pointer;
+}
+/* .zhong{
+	width: 100px;height: 16px;
+	border:1px solid red;
+} */
+.subnav-right{
+	width: 84px;
+	height: 26px;
+	float: right;
+	padding-top: 10px;
+
+}
+.subnavleft-ul li{
+	float: left;
+}
+.subnavright-ul li{
+	float: left;
+	margin-right: 12px;
+}
+
+.four{
+	margin-right:32px;line-height: 14px;
+
+}
+.four a{
+	color: black;
+}
+.subnavleft-ul img{
+	margin-bottom: 3px;
+}
+.jiantou:hover{
+	transform:rotate(180deg);
+	transition:all 1s ease;
+}
+.subnavright-ul .zhuce{
+	margin-right:0px;
+}
+.dl{
+	 color:#000;
+}
+.dl:hover{
+          color:#17a0ec;
+}
+/*登录结束*/
+
+
+
+
+
+
+
+
+
+/*内容开始*/
+.main{
+	width: 100%;
+	height: 1150px;
+	background-image: url(../image/index-background-image.jpg);
+    background-position: top center;
+}
+.main1{
+	width:1120px;
+	height: 1026px;
+	margin:0 auto;
+	padding-top: 124px;
+}
+.img1{
+	width: 356px;
+	height: 115px;
+	margin:0 auto;
+}
+.img2{
+	width: 747px;
+	height: 802px;
+	margin:110px auto 0px;
+}
+
+
+
+.mainone{
+	width:100%;
+	height:229px;
+	/*background-color:red;*/
+	padding-top:41px;
+}
+.mainone1{
+	width:1120px;
+	height:188px;
+	/*background-color:blue;*/
+	margin:0 auto;
+}
+.oneimg{margin:0 24px 0 35px;
+
+}
+.threeimg{margin:0 34px 0 24px;
+
+}
+
+
+
+/*内容结束*/
+
+
+
+
+
+
+
+/*底部开始*/
+
+
+.bottom{width: 100%;height: 162px;background-color: #fbfbfb}
+.bottom-inner{width: 1120px;height:162px;margin:0 auto;}
+.bottom-inner-left{width:173px;height:162px;float:left;}
+#zhuti{font-size:16px;color:#434d55;margin-top:30px;margin-bottom: 12px;
+       display:block;}
+#xiaobiaoti{font-size:12px ;color:#434d55 ;margin-top:13px ;display:block;}
+#xiaobiaoti:hover{color:#2ca4f0;}
+.bottom-inner-right{width:250px;height: 162px;float:right;}
+#zixun{width:117px;height:34px;margin-top:32px;border-radius:5px;
+       font-size:16px;background-color: #98baef;float: right;color:white;
+       text-align: center;line-height: 34px; 
+       background-image:url(../image/need-help-button.png);}
+#dianhua{font-size:36px;color:#434d55;margin-top:10px;float:right;}
+#tishi{font-size:12px;color:#c0a5b1;margin-top:8px;float:right;}
+
+
+
+.mainthree{
+	  width:100%;
+	  height:50px;
+	  background-color:#f1f1f1;
+	  padding-top:10px
+
+}
+.mainthreenai{
+	   width:1120px;
+	   height:40px;
+	   /*background-color:red;*/
+	   margin:0 auto;
+}
+.mainthreenai-left{
+	   width:610px;
+	   height:40px;
+	   /*background-color:blue;*/
+	   float:left;
+	   font-size:12px;
+}
+.mainthreenai-right{
+	   width:100px;
+	   height:40px;
+	   float:right;
+}
+#dizhi1{
+	  color:#1a54e7;
+}
+.return{
+	position:fixed;
+	right:20px;
+	bottom:20px;
+	
+} 
+
+/*底部结束*/

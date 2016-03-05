@@ -1,0 +1,13 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,input{
+	margin:0;
+	padding:0;
+	list-style:none;
+	font-family: Arial,"微软雅黑";
+	font-size: 14px;
+}
+a{color:#b0b0b0;
+   text-decoration:none;/*去掉修饰等效果（下划线）*/
+   }
+   img{
+   	border:none;
+   }
